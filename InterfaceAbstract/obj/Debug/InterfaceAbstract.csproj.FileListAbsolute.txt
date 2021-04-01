@@ -1,0 +1,7 @@
+Z:\Yonca\dilek(ptem)\InterfaceAbstract\InterfaceAbstract\bin\Debug\InterfaceAbstract.exe.config
+Z:\Yonca\dilek(ptem)\InterfaceAbstract\InterfaceAbstract\bin\Debug\InterfaceAbstract.exe
+Z:\Yonca\dilek(ptem)\InterfaceAbstract\InterfaceAbstract\bin\Debug\InterfaceAbstract.pdb
+Z:\Yonca\dilek(ptem)\InterfaceAbstract\InterfaceAbstract\obj\Debug\InterfaceAbstract.csprojAssemblyReference.cache
+Z:\Yonca\dilek(ptem)\InterfaceAbstract\InterfaceAbstract\obj\Debug\InterfaceAbstract.csproj.CoreCompileInputs.cache
+Z:\Yonca\dilek(ptem)\InterfaceAbstract\InterfaceAbstract\obj\Debug\InterfaceAbstract.exe
+Z:\Yonca\dilek(ptem)\InterfaceAbstract\InterfaceAbstract\obj\Debug\InterfaceAbstract.pdb
